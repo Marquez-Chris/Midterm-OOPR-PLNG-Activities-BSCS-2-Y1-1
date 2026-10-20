@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VowelOrConsonant {
+public class Week7AssignmentNo2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
